@@ -1,0 +1,2 @@
+--Learning git and advanced javascript
+--wish me luck
